@@ -37,7 +37,7 @@
 
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="form-group">
-                            <label for="filter">Filter nama siswa <sup class="text-info">Opsional</sup></label>
+                            <label for="filter">Filter Username <sup class="text-info">Opsional</sup></label>
                             <select name="filter" class="form-control shadow-sm border-left-primary" id="filter">
                                 <option value="">-- Pilih Semua --</option>
                                 <?php foreach ($instansi as $row) : ?>
@@ -67,7 +67,7 @@
                                 <th>No.</th>
                                 <th>Judul</th>
                                 <th>Isi Pengaduan</th>
-                                <th>Nama Instansi</th>
+                                <th>Username</th>
                             </tr>
                         </thead>
                         <tbody>
