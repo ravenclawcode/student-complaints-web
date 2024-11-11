@@ -1,8 +1,9 @@
-# CodeIgniter Project Installation Guide
+# Sistem Informasi Pengaduan Siswa
 
-Welcome to the CodeIgniter project! Follow these simple steps to get your project up and running quickly.
+![UI Preview](assets2/images/website_preview.png) 
 
 ## Step-by-Step Installation
+Follow these simple steps to get your project up and running quickly.
 
 ### **Step 1: Download the Project**
 Download the project by either:
