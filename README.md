@@ -1,6 +1,6 @@
 # Sistem Informasi Pengaduan Siswa
 
-![UI Preview](assets2/images/website_preview.png) 
+![Website Overview](https://github.com/wahyukaprawi/sistem-informasi-pengaduan-siswa/raw/main/assets2/images/website_overview.png)
 
 ## Step-by-Step Installation
 Follow these simple steps to get your project up and running quickly.
