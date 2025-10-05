@@ -1,4 +1,4 @@
-# Sistem Informasi Pengaduan Siswa
+# Student Complaints Web
 
 ![Website Overview](https://github.com/wahyukaprawi/sistem-informasi-pengaduan-siswa/raw/main/assets2/images/website_overview.png)
 
